@@ -1,0 +1,364 @@
+{
+  "category": "ENTITY_SPIRIT",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/erlking",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "erlking",
+    "name": "Erlking",
+    "aliases": [
+      {
+        "name": "Erlkönig",
+        "language": "German",
+        "region": "Germany",
+        "meaning": "Elf King"
+      },
+      {
+        "name": "Ellerkonge",
+        "language": "Danish",
+        "region": "Scandinavia",
+        "meaning": "Alder King / Elf King"
+      },
+      {
+        "name": "Elf King",
+        "language": "English",
+        "region": "Germanic regions"
+      }
+    ],
+    "category": "ENTITY_SPIRIT",
+    "subcategory": "Fae/Folklore",
+    "tags": [
+      "fae",
+      "spirit",
+      "germanic",
+      "scandinavian",
+      "death-omen",
+      "child-stealing",
+      "folklore",
+      "literary"
+    ],
+    "status": "traditional_folklore",
+    "description": {
+      "summary": "A malevolent fairy king from Germanic and Scandinavian folklore who lures children to their death. The Erlking appears only to those doomed to die and is most famous from Goethe's 1782 poem.",
+      "full": "The Erlking (Erlkönig) is a malevolent supernatural being from Germanic and Scandinavian folklore, representing a powerful and deadly fairy king. The name derives from a mistranslation of the Danish 'Ellerkonge' (alder king or elf king) into German. In folklore and literature, the Erlking appears specifically to children, invisible to adults, and lures them to death with promises of gifts and games. The most famous depiction comes from Johann Wolfgang von Goethe's 1782 ballad 'Erlkönig,' later set to music by Franz Schubert, which tells of a child who sees the Erlking while riding through the night with his father and dies in his father's arms. The figure symbolizes death personified, childhood vulnerability to illness, and parental helplessness in the face of mortality."
+    },
+    "etymology": {
+      "origin": "Mistranslation of Danish 'Ellerkonge' (alder king/elf king) to German 'Erlkönig' (Elf King) by Johann Gottfried Herder",
+      "meaning": "Elf King - though originally may have meant Alder King, a nature spirit associated with alder trees",
+      "first_use": "Late 18th century in German literature"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "ENTITY_SPIRIT",
+      "type": "Fae/Fairy",
+      "subtype": "Malevolent fairy royalty",
+      "variant": "Germanic/Scandinavian"
+    },
+    "related_phenomena": [
+      {
+        "id": "fairies",
+        "name": "Fairies",
+        "relationship": "category",
+        "description": "Broader category of fae beings"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "relationship": "similar",
+        "description": "Death omen spirit from Celtic folklore"
+      },
+      {
+        "id": "dullahan",
+        "name": "Dullahan",
+        "relationship": "similar",
+        "description": "Irish death messenger"
+      },
+      {
+        "id": "changelings",
+        "name": "Changelings",
+        "relationship": "related",
+        "description": "Fae child-stealing tradition"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "appearance_varies": true,
+      "features": [
+        {
+          "feature": "Appearance",
+          "description": "Varies from beautiful to terrifying; sometimes appears as handsome king, other times as skeletal or monstrous figure",
+          "frequency": "always"
+        },
+        {
+          "feature": "Crown",
+          "description": "Wears a crown denoting fairy royalty",
+          "frequency": "common"
+        },
+        {
+          "feature": "Robes",
+          "description": "Often depicted in flowing robes or regal garments",
+          "frequency": "common"
+        },
+        {
+          "feature": "Daughters",
+          "description": "Sometimes accompanied by beautiful daughters who entice children",
+          "frequency": "occasional"
+        }
+      ],
+      "morphology": "Supernatural fairy being, appearance shifts between alluring beauty and terrifying death figure"
+    },
+    "abilities": [
+      {
+        "ability": "Invisibility to adults",
+        "description": "Only children and the doomed can see the Erlking",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Seduction/Luring",
+        "description": "Calls to children with promises of gifts, games, and treasures",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Death touch",
+        "description": "Taking a child who follows means certain death",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Shape-shifting",
+        "description": "Can appear beautiful or terrifying depending on interpretation",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      }
+    ],
+    "behavior": {
+      "activity_period": "night",
+      "disposition": "malevolent",
+      "targets": "Children specifically",
+      "habitat_preference": [
+        "forests",
+        "wild places",
+        "along roads at night",
+        "alder groves"
+      ],
+      "patterns": [
+        "Calls to children in gentle, seductive voice",
+        "Promises beautiful gifts and games",
+        "Invisible to accompanying adults",
+        "Takes children who respond to his call",
+        "Appears as death omen"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Germanic and Scandinavian folklore tradition, spread through literature across Europe",
+      "continents": ["Europe"],
+      "countries": ["Germany", "Denmark", "Scandinavia", "Austria"],
+      "regions": [
+        "Germanic regions",
+        "Scandinavian countries",
+        "Northern Europe"
+      ]
+    },
+    "cultural_context": "Germanic and Scandinavian cultural tradition, part of broader European fae folklore",
+    "temporal": {
+      "first_recorded": {
+        "date": "Pre-18th century",
+        "circa": true,
+        "source": "Oral folklore traditions"
+      },
+      "literary_peak": {
+        "period": "Late 18th - 19th century",
+        "description": "Romantic era literary treatment, especially Goethe's poem and Schubert's lied"
+      }
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Germanic and Scandinavian folklore involving malevolent nature spirits and fairy kings who steal children",
+      "earliest_accounts": "Pre-literary oral traditions",
+      "folklore_connections": "Connected to broader European traditions of child-stealing fairies, wild hunt, and death omens"
+    },
+    "timeline": [
+      {
+        "date": "Pre-18th century",
+        "event": "Oral folklore tradition",
+        "significance": "Erlking/Ellerkonge exists in Germanic and Scandinavian oral traditions",
+        "source": "Folklore tradition"
+      },
+      {
+        "date": "1778",
+        "event": "Herder's translation",
+        "significance": "Johann Gottfried Herder translates Danish ballad, creating 'Erlkönig' name",
+        "source": "Herder's 'Stimmen der Völker'"
+      },
+      {
+        "date": "1782",
+        "event": "Goethe's 'Erlkönig' poem",
+        "significance": "Johann Wolfgang von Goethe writes famous ballad that defines modern conception",
+        "source": "Goethe's poetry collection"
+      },
+      {
+        "date": "1815",
+        "event": "Schubert's lied",
+        "significance": "Franz Schubert composes art song setting of Goethe's poem, ensuring lasting cultural impact",
+        "source": "Musical composition"
+      },
+      {
+        "date": "19th century",
+        "event": "Romantic era spread",
+        "significance": "Erlking becomes iconic figure in Romantic literature and music across Europe",
+        "source": "Literary and musical traditions"
+      }
+    ],
+    "modern_era": "The Erlking remains primarily an artistic and literary figure, referenced in fantasy literature, music, and as cultural symbol of childhood vulnerability and death. Influences modern fantasy depictions of malevolent fae."
+  },
+
+  "literary_sources": {
+    "primary_work": {
+      "title": "Erlkönig",
+      "author": "Johann Wolfgang von Goethe",
+      "date": "1782",
+      "type": "Ballad/Poem",
+      "significance": "Definitive literary version that shaped all subsequent interpretations"
+    },
+    "musical_settings": [
+      {
+        "title": "Erlkönig",
+        "composer": "Franz Schubert",
+        "date": "1815",
+        "opus": "D. 328, Op. 1",
+        "significance": "Most famous musical setting, considered masterpiece of German lied"
+      },
+      {
+        "composer": "Carl Loewe",
+        "date": "1818"
+      },
+      {
+        "composer": "Franz Liszt",
+        "date": "Piano transcription of Schubert"
+      }
+    ]
+  },
+
+  "symbolism": {
+    "interpretations": [
+      "Death personified",
+      "Childhood illness and mortality",
+      "Parental helplessness in face of child's death",
+      "Fever delirium",
+      "Nature's indifference to human life",
+      "Romanticized death"
+    ],
+    "themes": [
+      "Innocence and mortality",
+      "The supernatural invisible to rational adults",
+      "Seduction and danger",
+      "The boundary between life and death"
+    ]
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Germanic fairy king traditions",
+        "Scandinavian ellerkonge stories",
+        "Child-stealing fairy folklore"
+      ],
+      "beliefs": "Represents dangerous aspect of fairy folk who steal children, particularly those who are ill or dying"
+    },
+    "indigenous": {
+      "cultures": [
+        "Germanic peoples",
+        "Scandinavian peoples",
+        "Danish"
+      ],
+      "significance": "Part of cautionary folklore warning children to avoid dangerous places and strangers",
+      "sensitivity_note": "Germanic cultural tradition - folklore represents cultural beliefs about childhood death and illness in pre-modern era"
+    },
+    "popular_culture": {
+      "literature": [
+        "Referenced in numerous fantasy novels",
+        "Jim Butcher's Dresden Files series",
+        "Various retellings and adaptations"
+      ],
+      "music": [
+        "Schubert's lied remains concert staple",
+        "Modern classical and metal music references",
+        "Educational music curriculum standard"
+      ],
+      "other": [
+        "Opera adaptations",
+        "Ballet interpretations",
+        "Art song recital standard"
+      ]
+    }
+  },
+
+  "research": {
+    "researchers": [
+      {
+        "name": "Johann Gottfried Herder",
+        "field": "Folklore collection",
+        "contribution": "Collected and translated Danish ballad, creating German 'Erlkönig' name",
+        "period": "1770s-1780s"
+      },
+      {
+        "name": "Jacob and Wilhelm Grimm",
+        "field": "Folklore studies",
+        "contribution": "Documented Germanic fairy traditions including malevolent fae",
+        "period": "Early 19th century"
+      }
+    ],
+    "academic_focus": "Primarily studied in literature, musicology, and folklore departments; analyzed as Romantic-era response to Enlightenment rationalism and as cultural processing of childhood mortality"
+  },
+
+  "sources": [
+    {
+      "id": "goethe-1782",
+      "type": "poem",
+      "title": "Erlkönig",
+      "authors": ["Johann Wolfgang von Goethe"],
+      "date": "1782"
+    },
+    {
+      "id": "schubert-1815",
+      "type": "musical_composition",
+      "title": "Erlkönig, D. 328",
+      "authors": ["Franz Schubert"],
+      "date": "1815"
+    },
+    {
+      "id": "herder-1778",
+      "type": "translation",
+      "title": "Stimmen der Völker in Liedern",
+      "authors": ["Johann Gottfried Herder"],
+      "date": "1778-1779"
+    }
+  ]
+}
