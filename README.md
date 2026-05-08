@@ -1,331 +1,166 @@
 # Erlking
 
-> *"Mein Vater, mein Vater, und hörest du nicht, was Erlkönig mir leise verspricht?"*
-> — "My father, my father, and don't you hear what the Erlking whispers to me?"
+> A malevolent fairy-king of Germanic Romanticism, derived via Herder's 1778 mistranslation from the Danish 'ellekonge' ('king of the elves'); famously portrayed in Goethe's 1782 ballad 'Erlkönig' as a supernatural being who lures a child to its death, set to music by Franz Schubert (D. 328, 1815).
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-traditional_folklore-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `erlking` |
-| **Category** | ENTITY_SPIRIT |
-| **Classification** | Fae/Folklore (Germanic/Scandinavian) |
-| **First Recorded** | Pre-18th century (oral tradition) |
-| **Primary Region** | Germanic & Scandinavian regions |
-| **Status** | Traditional folklore, artistic inspiration |
+| **Category** | FAE_FOLKLORE |
+| **Subcategory** | Fairy / elf-king of Germanic Romanticism |
+| **First recorded** | 1739-01-01 |
+| **Primary range** | Originating in Danish ballad tradition and codified in late-18th-century German literature |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-The Erlking (German: *Erlkönig*) is a malevolent fairy king from Germanic and Scandinavian folklore who lures children to their death. Beautiful yet deadly, the Erlking appears only to those doomed to die—specifically children—while remaining invisible to adults. He calls to children with promises of gifts and games, and those who follow him meet certain death.
-
-The most famous depiction comes from Johann Wolfgang von Goethe's 1782 ballad "Erlkönig," which tells of a child who sees the Erlking while riding through the night with his father. Despite the child's increasingly desperate warnings, the father sees nothing. The child dies in his father's arms as they reach home.
-
-The Erlking symbolizes death personified, childhood illness and vulnerability, and the helplessness parents feel when unable to protect their children from mortality.
+The Erlking (German Erlkönig, literally 'alder-king') is a malevolent fairy-king of Germanic Romantic literature whose origins lie in Scandinavian folklore. The figure derives from the Danish folk ballad 'Hr. Oluf han rider' ('Sir Oluf he rides'), printed in 'Danske Kæmpeviser' (1739) and belonging to the wider Elveskud ballad tradition. In 1778 Johann Gottfried von Herder translated a variant of this ballad into German as 'Erlkönigs Tochter' ('The Erl-King's Daughter') in his folk-song collection 'Stimmen der Völker in Liedern'. Linguistically the form 'Erlkönig' arose from a misreading or imaginative recasting of Danish 'elver-/eller-' ('elf') as German 'Erle' ('alder'), as discussed by Jacob Grimm. Goethe took up Herder's vocabulary in his 1782 ballad 'Erlkönig', written for the Singspiel 'Die Fischerin', shifting the antagonist from the elf-king's daughter to the Erlking himself, and presenting him as a supernatural being who lures a sick child to his death while riding through the night with his father. Franz Schubert's setting (D. 328, 1815, published as Opus 1) is among the most famous art songs in the Western canon. The Erlking remains a paradigmatic figure of Germanic Romanticism, frequently invoked as death personified or as a symbol of childhood vulnerability.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Erlkönig | German | Literally 'alder-king'; standard German form |
+| Ellekonge | Danish | 'King of the elves'; the original Scandinavian root |
+| Ellerkonge | Danish (variant) |  |
+| The Erl-King | English | Standard English rendering, popularized through Goethe and Schubert |
 
-### Primary Name
-- **Erlking** / **Erlkönig** (German) — "Elf King" or "Alder King," derived from mistranslation of Danish "Ellerkonge"
+## Etymology
 
-### Etymology
-The name "Erlkönig" arose from Johann Gottfried Herder's 1778 translation of a Danish ballad. The Danish word "Ellerkonge" can mean either "alder king" (a nature spirit associated with alder trees) or "elf king" (a fairy ruler). Herder's German translation created "Erlkönig" (Elf King), which became the standard name.
-
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Erlkönig | German | Elf King |
-| Ellerkonge | Danish/Scandinavian | Alder King / Elf King |
-| Elf King | English | Direct translation |
+- **Origin**: From Johann Gottfried von Herder's 1778 German rendering of Danish 'ellekonge' / 'ellerkonge' ('king of the elves'), via German 'Erle' ('alder').
+- **Meaning**: Literally 'alder-king'; the etymological link to alder trees is the result of Herder's translation rather than original Scandinavian usage, in which the figure is the elf-king (or his daughter).
+- **First use**: Herder's 'Erlkönigs Tochter' in 'Stimmen der Völker in Liedern' (1778); fixed in literary German by Goethe's 'Erlkönig' (1782).
 
 ---
+## Related Phenomena
 
-## Classification
-
-### Taxonomy
-```
-Category: ENTITY_SPIRIT
-├── Type: Fae/Fairy
-├── Subtype: Malevolent fairy royalty
-└── Variant: Germanic/Scandinavian
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Fairies](/fairies) | Category | Broader category of fae beings |
-| [Banshee](/banshee) | Similar | Celtic death omen spirit |
-| [Dullahan](/dullahan) | Similar | Irish death messenger |
-| Changelings | Related | Fae child-stealing tradition |
+- [Elveskud (Hr. Oluf han rider)](../elveskud/) — _superset_: Danish ballad tradition (printed 1739) from which the Erlking is derived.
+- [Fairy-king (general)](../fairy-king/) — _superset_: Broader category of fairy royalty in European folklore.
+- [Elf](../elf/) — _related_: The original 'ellekonge' is the king of the Scandinavian elves.
+- [Death personified](../death-personified/) — _related_: Goethe's Erlking is widely read as a personification of death.
 
 ---
+## Physical Description
 
-## Characteristics
+- **Morphology**: A spectral, regal humanoid figure of Germanic Romantic imagination; Goethe's text is allusive rather than concretely descriptive.
 
-### Physical Description
+### Features
 
-The Erlking's appearance varies dramatically between accounts, ranging from hauntingly beautiful to terrifying:
+| Feature | Description | Frequency |
+|---|---|---|
+| Crowned and bearded fairy-king | Goethe describes the Erlking with crown and tail; later editions and illustrations emphasize a crowned, bearded figure. | common |
+| Train of daughters | In Goethe's ballad the Erlking offers the sick child the company of his daughters who 'lead the nightly revels'. | common |
+| Visible only to the doomed child | The Erlking appears only to the child in Goethe's poem; the father sees only mist and hears only the wind. | always |
 
-| Aspect | Description |
-|--------|-------------|
-| **Form** | Sometimes beautiful and alluring, sometimes skeletal and monstrous |
-| **Crown** | Wears a crown denoting fairy royalty |
-| **Robes** | Often depicted in flowing, regal garments |
-| **Companions** | Sometimes accompanied by beautiful daughters who help entice children |
+## Reported Abilities
 
-### Supernatural Abilities
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Selective visibility | Visible and audible only to the doomed child, while ordinary observers perceive only natural phenomena (mist, wind, rustling leaves). | always | folklore |
+| Seduction of children | Lures children with promises of games, fine clothes, and his daughters' company. | always | folklore |
+| Lethal touch | His touch kills: the child in Goethe's ballad dies in his father's arms as they reach the farm. | always | folklore |
 
-| Ability | Description | Frequency |
-|---------|-------------|-----------|
-| Invisibility to adults | Only children and the doomed can see him | Always |
-| Seduction/Luring | Calls to children with promises of gifts, games, treasures | Always |
-| Death touch | Taking a child who follows means certain death | Always |
-| Shape-shifting | Appears beautiful or terrifying depending on interpretation | Common |
+## Behavior
 
-### Behavioral Patterns
-
-- **Activity Period**: Night, especially while traveling through dark forests
-- **Disposition**: Malevolent
-- **Targets**: Children specifically
-- **Habitat**: Forests, wild places, along roads at night, alder groves
-
-**Typical Pattern**:
-1. Appears to child (invisible to adults)
-2. Calls in gentle, seductive voice
-3. Promises beautiful gifts and games
-4. Child who responds or follows dies
+- **Activity**: nocturnal
+- **Disposition**: aggressive
+- **Social structure**: family_group
+- **Habitat**: forests at night, alder groves (per the Herderian etymology), remote rural landscapes
 
 ---
+## Distribution
 
-## Geographic & Cultural Distribution
+Originating in Danish ballad tradition and codified in late-18th-century German literature; spread globally through Goethe's poem and Schubert's lied.
 
-### Primary Range
-
-Germanic and Scandinavian folklore tradition, later spread through literature across Europe.
-
-**Regions**:
-- Germany
-- Denmark
-- Scandinavia (Norway, Sweden)
-- Austria
-- Northern Europe (via cultural influence)
-
-### Cultural Context
-
-⚠️ **Cultural Sensitivity**: Germanic cultural tradition. The Erlking represents cultural beliefs about childhood death and illness in pre-modern era.
 
 ---
-
 ## Historical Timeline
 
-### Origins
-
-Germanic and Scandinavian oral folklore involving malevolent nature spirits and fairy kings who steal children. Connected to broader European traditions of dangerous fairies and the Wild Hunt.
-
-### Key Events
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| Pre-18th century | Oral folklore tradition | Erlking/Ellerkonge exists in Germanic and Scandinavian tales |
-| 1778 | Herder's translation | Johann Gottfried Herder translates Danish ballad, creating "Erlkönig" name |
-| 1782 | Goethe's poem | Goethe writes definitive ballad that shapes all modern conceptions |
-| 1815 | Schubert's lied | Franz Schubert's musical setting becomes masterpiece of German art song |
-| 19th century | Romantic era | Erlking becomes iconic figure in European Romantic literature and music |
+|---|---|---|
+| 1739-01-01 | 'Hr. Oluf han rider' printed in 'Danske Kæmpeviser' | Earliest printed source of the elf-ballad behind the Erlking |
+| 1778-01-01 | Johann Gottfried von Herder publishes 'Erlkönigs Tochter' in 'Stimmen der Völker in Liedern' | Introduces the figure to German letters; coins 'Erlkönig' as a translation of Danish 'ellekonge' |
+| 1782-01-01 | Goethe writes 'Erlkönig' for his Singspiel 'Die Fischerin' | Canonical German Romantic ballad; shifts antagonist from elf-king's daughter to the Erlking himself |
+| 1815-01-01 | Franz Schubert composes his setting of Goethe's 'Erlkönig', D. 328, published as Opus 1 (1821) | Most famous art-song version of the figure |
 
-### Goethe's "Erlkönig" (1782)
+## Evidence
 
-Goethe's ballad is the definitive literary treatment:
+### Documentary
 
-**Story**: A father rides through the night with his sick child. The child sees the Erlking and reports increasingly desperate visions: the Erlking calling him, promising games and flowers, threatening to take him by force. The father sees nothing and attributes the child's visions to natural phenomena (mist, rustling leaves). When they reach home, the child is dead.
-
-**Impact**: This poem defined the Erlking for all subsequent literature and art, transforming a folklore figure into a symbol of death and childhood mortality.
-
-### Schubert's Musical Setting (1815)
-
-Franz Schubert's lied (art song) setting of Goethe's poem, composed when Schubert was only 18, is considered one of the greatest achievements in the art song repertoire. The music dramatically portrays:
-- The galloping horse (piano accompaniment)
-- Four distinct voices (narrator, father, child, Erlking)
-- Increasing panic and terror
-- The sudden, devastating ending
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Danske Kæmpeviser (1739) | 1739 | Printed Danish ballad collection containing 'Hr. Oluf han rider', the source ballad of the Erlking tradition. | verified |
+| Erlkönigs Tochter (Herder, 1778) | 1778 | Herder's German translation of the Danish ballad, introducing the term 'Erlkönig'. | verified |
+| Erlkönig (Goethe, 1782) | 1782 | Goethe's ballad as part of the Singspiel 'Die Fischerin'. | verified |
+| Erlkönig D. 328 (Schubert) | 1815 | Schubert's setting of Goethe's 'Erlkönig' as Opus 1. | verified |
 
 ---
+## Theories & Explanations
 
-## Symbolism & Interpretation
+### Paranormal / Cryptozoological
 
-### Primary Interpretations
+**Genuine fairy-king of folklore** _(Scandinavian and German folk tradition)_
 
-1. **Death Personified**
-   The Erlking represents death itself, particularly death that comes for children
+Within the original Scandinavian and Germanic folkloric frame, the figure is a real elf-king (or his daughter) who interacts dangerously with humans.
 
-2. **Childhood Illness**
-   The child's visions can be read as fever delirium; the Erlking as metaphor for fatal illness
+### Skeptical
 
-3. **Parental Helplessness**
-   The father's inability to see what threatens his child symbolizes parents' powerlessness against death
+**Death personified / fever-vision reading** _(Literary critics of Romanticism)_
 
-4. **Rational vs. Supernatural**
-   The father's rational explanations vs. the child's supernatural vision represents Enlightenment rationalism vs. Romantic belief in the unseen
+Modern critical readings interpret Goethe's Erlking as a personification of death and the child's hallucinations as the product of fever, reframing the supernatural as psychological and mortal.
 
-5. **Nature's Indifference**
-   The beautiful but deadly forest spirit shows nature's dangerous, amoral power
+**Herder's translation error** _(Jacob Grimm, Modern philologists)_
 
-### Themes
+Linguistic analysis (notably by Jacob Grimm) holds that the entire 'alder-king' framing is a translational artefact of Herder rendering Danish 'ellekonge' ('elf-king') as German 'Erlkönig' ('alder-king').
 
-- Innocence and mortality
-- The supernatural invisible to rational adults
-- Seduction and danger
-- The boundary between life and death
-- Beauty and terror intertwined
 
----
+## Popular Culture
 
-## Cultural Significance
+**Literature**: Hr. Oluf han rider (Danske Kæmpeviser, 1739); Erlkönigs Tochter — Johann Gottfried von Herder (1778); Erlkönig — Johann Wolfgang von Goethe (1782); The Bloody Chamber — Angela Carter (1979): contains the story 'The Erl-King'
 
-### Folklore Tradition
+**Film / TV**: Numerous adaptations and references in European film and television
 
-Part of broader Germanic and Scandinavian traditions involving:
-- Malevolent fairy folk
-- Child-stealing spirits
-- Nature spirits of groves and forests
-- Death omens
+**Games**: Erlking-derived figures appear in fantasy role-playing games (e.g. Pathfinder, Witcher franchise)
 
-### Literary Significance
-
-The Erlking is one of the most important figures in German Romantic literature, representing:
-- Romantic fascination with death and the supernatural
-- Reaction against Enlightenment rationalism
-- Exploration of the boundary between natural and supernatural
-
-### Musical Legacy
-
-**Schubert's "Erlkönig"**:
-- Concert repertoire staple for over 200 years
-- Studied in music education worldwide
-- Over 100 other composers have set Goethe's text
-- Transcribed for various instruments
-
-### Modern Influence
-
-**Literature**:
-- Referenced in fantasy novels
-- Jim Butcher's Dresden Files series features Erlking
-- Numerous retellings and adaptations
-
-**Music**:
-- Classical music education standard
-- Referenced in modern classical and metal music
-- Continues to inspire new compositions
-
-**Other Media**:
-- Opera adaptations
-- Ballet interpretations
-- Visual art inspired by the figure
+**Music**: Erlkönig D. 328 — Franz Schubert (1815); Erlkönig — Carl Loewe (Op. 1, No. 3, 1818); Numerous later orchestral and pop-music settings
 
 ---
+## Research
 
-## Research & Scholarship
+### Researchers
 
-### Key Scholars
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Johann Gottfried von Herder | German philosopher and literary theorist | Translated the Danish elf-ballad as 'Erlkönigs Tochter' (1778), coining the German 'Erlkönig' | late 18th century |
+| Johann Wolfgang von Goethe | German poet and statesman | Composed the canonical 'Erlkönig' ballad (1782) for the Singspiel 'Die Fischerin' | late 18th century |
+| Franz Schubert | Austrian composer | Composed the canonical musical setting of 'Erlkönig' (D. 328, 1815) | early 19th century |
+| Jacob Grimm | Philologist (University of Göttingen / Berlin) | Identified 'Erlkönig' as a German rendering of Scandinavian 'ellekonge' ('elf-king') | 19th century |
+| Lorraine Byrne Bodley | Maynooth University (musicology) | Detailed scholarship on Schubert's Goethe settings, including 'Erlkönig' | 2000s–present |
 
-| Name | Field | Contribution |
-|------|-------|--------------|
-| Johann Gottfried Herder | Folklore collection | Collected Danish ballad, created German name |
-| Jacob & Wilhelm Grimm | Folklore studies | Documented Germanic fairy traditions |
-| Modern literary scholars | Goethe studies | Extensive analysis of poem's symbolism |
-| Musicologists | Art song scholarship | Analysis of Schubert's lied |
-
-### Academic Focus
-
-Primarily studied in:
-- **Literature departments**: Romantic literature, German poetry
-- **Musicology**: Art song, Romantic music
-- **Folklore studies**: Germanic fairy traditions
-- **Cultural studies**: Death and childhood in pre-modern Europe
+Active scholarship on the Erlking is concentrated in German literary studies, comparative folklore (with Danish ballad scholars), and musicology of the German Lied.
 
 ---
+## Sources
 
-## Primary Sources
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-### Literary
 
-- Goethe, J.W. (1782). "Erlkönig" — Definitive ballad
-- Herder, J.G. (1778-1779). *Stimmen der Völker in Liedern* — Translation that created the name
+## How to Report a Sighting
 
-### Musical
-
-- Schubert, F. (1815). "Erlkönig," D. 328, Op. 1 — Most famous musical setting
-- Loewe, C. (1818). "Erlkönig" — Alternative setting
-- Liszt, F. Piano transcription of Schubert's lied
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## How to Contribute
-
-Research contributions welcome:
-
-1. **Folklore variants**: Regional variations of Ellerkonge/Erlking stories
-2. **Musical settings**: Documentation of other composers' settings
-3. **Cultural analysis**: Interpretations from different cultural perspectives
-4. **Modern adaptations**: Contemporary literary/artistic treatments
-
-See [Contributing Guidelines](https://github.com/wyrdness/.github/blob/main/CONTRIBUTING.md).
-
----
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/erlking/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Essential Reading
-
-- Goethe, J.W. (1782). "Erlkönig"
-- Schubert, F. (1815). "Erlkönig," D. 328
-- Grimm, J. & Grimm, W. (19th century). Germanic folklore collections
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
